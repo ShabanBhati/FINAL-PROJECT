@@ -1,0 +1,140 @@
+{
+    "data": [
+        {"info" : [
+            {
+                "id": 1,
+                "title": "BETTER FOOD",
+                "description": "We use only the freshest ingredients, sourced locally and cooked with care." 
+            },
+            {
+                "id": 2,
+                "title": "BETTER TASTE",
+                "description": "Our chefs blend spices, textures, and love to bring you unforgettable taste." 
+            },
+            {
+                "id": 3,
+                "title": "BETTER SERVICE",
+                "description": "From warm greetings to prompt service, your comfort is our highest priority. " 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./menu-item-1.png",
+                "title": "ROASTED PANNER FRY",
+                "category": "Dinner"
+            },
+            {
+                "id": 2,
+                "image": "./menu-item-2.png",
+                "title": "FULL PLATE DINNER",
+                "category": "Dinner"
+            },
+            {
+                "id": 3,
+                "image": "./menu-item-3.png",
+                "title": "CHINEESE NOODLES",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./menu-item-4.png",
+                "title": "ONION RINGS",
+                "category": "Dinner"
+            },
+            {
+                "id": 5,
+                "image": "./menu-item-5.png",
+                "title": "CHOCOLATE COOKIES",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./menu-item-1.png",
+                "title": "PANEER TIKKA",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "./menu-item-6.png",
+                "title": "SPICY SALAD",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./menu-item-3.png",
+                "title": "NOODLES",
+                "category": "Dinner"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team.jpg",
+                "name": "JIVANRAM",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./team.jpg",
+                "name": "Pahle wala chief hu",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./team.jpg",
+                "name": "Array bhai wo hi hun",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "./team.jpg",
+                "name": "KISHAN",
+                "designation": "Senior Chef"
+            }
+        ],
+        
+        "oursite": [
+            
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
